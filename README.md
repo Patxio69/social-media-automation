@@ -2,4 +2,4 @@
   HOLY CRAP, this starts here
 </h1>
 
-<img src="https://image-bucket-alphensign.s3.ap-south-1.amazonaws.com/to+be+better.png" width="500" height="600">
+<img src="https://image-bucket-alphensign.s3.ap-south-1.amazonaws.com/to+be+better.png" width="130" height="82">
