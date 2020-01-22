@@ -17,12 +17,14 @@ def mentions():
     (pub_tweets) = api.mentions_timeline()
     for tweet in pub_tweets:
         twee = tweet.__dict__
-        print(twee)
+        print(twee) # try to load twee in a fi,e
 #smt = bool        
 inpu = input("")
 while inpu == "y":
+    inpu += input("")
     if inpu == "y":
         mentions()
+        print(inpu)
         
     #break smt == bool(inpu)
     else:
