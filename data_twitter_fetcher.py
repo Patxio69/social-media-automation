@@ -28,14 +28,3 @@ while inpu == "y":
     else:
         print("type again")
 
-def grab(idx):
-    Id == 1 # input("")
-    if type(Id) == int:
-        return Id
-    else:
-        return "please use 'int' type"
-
-#grab(input(""))
-lis = list(range(random(1,100)))
-lis[grab()]
-
