@@ -18,16 +18,24 @@ def mentions():
     for tweet in pub_tweets:
         twee = tweet.__dict__
         print(twee)
-smt = bool        
+#smt = bool        
 inpu = input("")
 while inpu == "y":
     if inpu == "y":
         mentions()
-
-    break smt == bool(inpu)
+        
+    #break smt == bool(inpu)
     else:
         print("type again")
 
-list(range(random(1,100)))
+def grab(idx):
+    Id == 1 # input("")
+    if type(Id) == int:
+        return Id
+    else:
+        return "please use 'int' type"
 
+#grab(input(""))
+lis = list(range(random(1,100)))
+lis[grab()]
 
